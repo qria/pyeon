@@ -1,6 +1,6 @@
 # pyeon
 
-The most advanced (and probably only) convienient store announcement generator!
+The most advanced (and probably only) convienience store announcement generator!
 
 ## Usage
 
