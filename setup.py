@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(name='pyeon',
-      version='0.0.2',
+      version='0.0.3',
       description='''Generates some phrases when someone goes to the \
 convenience store.''',
       long_description=long_description,
